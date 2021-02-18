@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 8d7a7b5f3725550448d58ef0c06bdf3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5889149573726455187
+    second: muertePelon_0
+  - first:
+      213: -6878581260728771687
+    second: muertePelon_1
+  - first:
+      213: 8607509538269406191
+    second: muertePelon_2
+  - first:
+      213: 925829009742842165
+    second: muertePelon_3
+  - first:
+      213: 7843877253757489407
+    second: muertePelon_4
+  - first:
+      213: 2804983539054616094
+    second: muertePelon_5
+  - first:
+      213: 1863748351266316808
+    second: muertePelon_6
+  - first:
+      213: -8077493804096363861
+    second: muertePelon_7
+  - first:
+      213: 1962221282072410057
+    second: muertePelon_8
+  - first:
+      213: 7291944623912814025
+    second: muertePelon_9
+  - first:
+      213: 4547854812181404694
+    second: muertePelon_10
+  - first:
+      213: 3727859416049136529
+    second: muertePelon_11
+  - first:
+      213: 5398256420651262082
+    second: muertePelon_12
+  - first:
+      213: -6949967292599164254
+    second: muertePelon_13
+  - first:
+      213: -2486541380865279716
+    second: muertePelon_14
+  - first:
+      213: 3614770808140020007
+    second: muertePelon_15
+  - first:
+      213: 4594952654958696454
+    second: muertePelon_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muertePelon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a34ec2aa9854ea0800000000000000
+      internalID: -5889149573726455187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 36
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5a93a9ce5a80a0800000000000000
+      internalID: -6878581260728771687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 12
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a55d0254047770800000000000000
+      internalID: 8607509538269406191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46885434, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5394970449439dc00800000000000000
+      internalID: 925829009742842165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45847338, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05bfbbdcc0bdc60800000000000000
+      internalID: 7843877253757489407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_5
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5103827, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1b26daad4de620800000000000000
+      internalID: 2804983539054616094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_6
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46875498, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e2fb304d5dd910800000000000000
+      internalID: 1863748351266316808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_7
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4531328, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ea6b7e2af6ef80800000000000000
+      internalID: -8077493804096363861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_8
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45313352, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c733a81cd53b3b10800000000000000
+      internalID: 1962221282072410057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_9
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47656676, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c584264001323560800000000000000
+      internalID: 7291944623912814025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_10
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.43750992, y: 1.582251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c9f1a2bd93d1f30800000000000000
+      internalID: 4547854812181404694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_11
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 5
+        width: 166
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193343a43640cb330800000000000000
+      internalID: 3727859416049136529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_12
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 5
+        width: 150
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e3670d957aea40800000000000000
+      internalID: 5398256420651262082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_13
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1
+        width: 168
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a22b04e191cc8f90800000000000000
+      internalID: -6949967292599164254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_14
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5
+        width: 147
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193732d9c70e7dd0800000000000000
+      internalID: -2486541380865279716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_15
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 5
+        width: 154
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72933abe5ee3a2230800000000000000
+      internalID: 3614770808140020007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muertePelon_16
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3
+        width: 164
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081d86381d84cf30800000000000000
+      internalID: 4594952654958696454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 991560becbadb994d989a819075aded5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

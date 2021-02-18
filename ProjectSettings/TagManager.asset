@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - whiskey
+  - bullet
+  - enemy
+  - medkit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Explosions
+  - Estructuras
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cercas
+    uniqueID: 561108043
+    locked: 0
+  - name: Estructuras
+    uniqueID: 3573895121
+    locked: 0
+  - name: piso
+    uniqueID: 2680702391
+    locked: 0
+  - name: adornos
+    uniqueID: 3686843275
+    locked: 0
+  - name: PisoPared
+    uniqueID: 2351850401
+    locked: 0
+  - name: whiskey
+    uniqueID: 1144256729
+    locked: 0
+  - name: Enemy
+    uniqueID: 2965790557
+    locked: 0
+  - name: Player
+    uniqueID: 2549767931
+    locked: 0
+  - name: Munnition
+    uniqueID: 1629351285
+    locked: 0

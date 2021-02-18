@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 1bb1626f9b1b0344596d626f33e19a86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5014080657116516607
+    second: villano2dead_0
+  - first:
+      213: -8418070915362225467
+    second: villano2dead_1
+  - first:
+      213: 1277591822315903530
+    second: villano2dead_2
+  - first:
+      213: 4116686171419501079
+    second: villano2dead_3
+  - first:
+      213: -5387870771033729694
+    second: villano2dead_4
+  - first:
+      213: -7644710544737515895
+    second: villano2dead_5
+  - first:
+      213: -2789523876647223459
+    second: villano2dead_6
+  - first:
+      213: -5277394517184618575
+    second: villano2dead_7
+  - first:
+      213: -1444732993312749698
+    second: villano2dead_8
+  - first:
+      213: -8341929040829573137
+    second: villano2dead_9
+  - first:
+      213: 7456577662056735611
+    second: villano2dead_10
+  - first:
+      213: 4631845685078188217
+    second: villano2dead_11
+  - first:
+      213: 3464347183398068062
+    second: villano2dead_12
+  - first:
+      213: -245769975366593322
+    second: villano2dead_13
+  - first:
+      213: -5620932468647146940
+    second: villano2dead_14
+  - first:
+      213: -4992807100879444829
+    second: villano2dead_15
+  - first:
+      213: 9181937307658740326
+    second: villano2dead_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: villano2dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa96545386a6ab0800000000000000
+      internalID: -5014080657116516607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 26
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c289c37a110d2b80800000000000000
+      internalID: -8418070915362225467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a55115efaeab110800000000000000
+      internalID: 1277591822315903530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.52076435, y: 1.6363629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712e8330348612930800000000000000
+      internalID: 4116686171419501079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 1.6363629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26513d474107a35b0800000000000000
+      internalID: -5387870771033729694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_5
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5103827, y: 1.6634192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986cc32534888e590800000000000000
+      internalID: -7644710544737515895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_6
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4792367, y: 1.6634192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fb8ff40de9949d0800000000000000
+      internalID: -2789523876647223459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_7
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5000007, y: 1.6363629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfdd9fb5ade2c6b0800000000000000
+      internalID: -5277394517184618575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_8
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48961833, y: 1.6363629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778e424ff643fbe0800000000000000
+      internalID: -1444732993312749698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_9
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4792367, y: 1.6904755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe796db1cb38b3c80800000000000000
+      internalID: -8341929040829573137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_10
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 0
+        width: 172
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 1.6634192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73210380e51b7760800000000000000
+      internalID: 7456577662056735611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_11
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 10
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e2892c1f974040800000000000000
+      internalID: 4631845685078188217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 15
+        width: 132
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f111d8865d31030800000000000000
+      internalID: 3464347183398068062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_13
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 11
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d451d17289d69cf0800000000000000
+      internalID: -245769975366593322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_14
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 19
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac3d363bf6ef1b0800000000000000
+      internalID: -5620932468647146940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_15
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 11
+        width: 134
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46800156cf5bab0800000000000000
+      internalID: -4992807100879444829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villano2dead_16
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 15
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e7e4555bcc6f70800000000000000
+      internalID: 9181937307658740326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a06daccae0fc4d4da7b09ac21bc3d4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
