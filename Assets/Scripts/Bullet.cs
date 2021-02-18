@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Bullet : MonoBehaviour
 {   
-    [SerializeField, Range(0.1f, 100f)]
-    public float speed = 0f;
-    public int damage = 50;
+    public BulletStats bulletStats;
+    
+    public float speed;
+    public int damage;
 
     public Rigidbody2D rb;
     public GameObject impactEffect;
@@ -15,6 +17,8 @@ public class Bullet : MonoBehaviour
 
     void Start ()
     {
+        speed = bulletStats.speed;
+        damage = bulletStats.damage;
         rb.velocity = transform.right * speed;
         end();
     }

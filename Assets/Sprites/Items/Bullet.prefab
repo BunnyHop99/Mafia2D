@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1629351285
-  m_SortingLayer: 4
+  m_SortingLayer: 9
   m_SortingOrder: 0
   m_Sprite: {fileID: 8092430098967794038, guid: 4e776bb3db0af2a4c8d9631291569064, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -164,8 +164,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e692cf49e50eda74bb395bd78633d65b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 73.8
-  damage: 50
+  bulletStats: {fileID: 11400000, guid: cc9d7dce45464ec4289d144ab1a58891, type: 2}
+  speed: 0
+  damage: 0
   rb: {fileID: 4551571506608383539}
   impactEffect: {fileID: 6001993774436837293, guid: dd5008c80394d8f4fb93b8c8622f4f2d, type: 3}
   impactWalls: {fileID: 3519325937051540476, guid: 2565c2c73c8eaea4fb43b338569aa61a, type: 3}

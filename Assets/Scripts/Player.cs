@@ -163,7 +163,7 @@ public class Player : MonoBehaviour
 
     void Die()
     {
-        /*Instantiate(deathEffect, transform.position, Quaternion.identity);*/
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
     

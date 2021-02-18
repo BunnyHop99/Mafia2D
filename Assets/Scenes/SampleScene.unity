@@ -71099,7 +71099,7 @@ MonoBehaviour:
   maxHealth: 100
   currentHealth: 0
   healthBar: {fileID: 1287037388}
-  deathEffect: {fileID: 0}
+  deathEffect: {fileID: 8612022725062657151, guid: e40ae7f95e317e3448d63d6a79feb65a, type: 3}
 --- !u!212 &998009294
 SpriteRenderer:
   m_ObjectHideFlags: 0
