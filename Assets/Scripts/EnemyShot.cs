@@ -10,12 +10,17 @@ public class EnemyShot : MonoBehaviour
     public float distanciaRetraso;
     public float distanciaDeteccion;
 
+    [SerializeField, Range(0f, 1f)]
+    private float dontStop;
+    
+
     Animator anim;
     public Transform punto_disparo;
     public GameObject bala;
     public GameObject balaLeft;
     private float tiempo;
     GameObject bulletEnemy;
+    
     
     [SerializeField]
     Color rayColor = Color.magenta;
@@ -38,6 +43,11 @@ public class EnemyShot : MonoBehaviour
     void Update()
     {
         if(Physics2D.Raycast(transform.position, Vector2.right, rayDistance, playerLayer) || Physics2D.Raycast(transform.position, Vector2.left, rayDistance, playerLayer))
+        {
+            dontStop = 1;
+        }
+
+        if (dontStop >= 1)
         {
             anim.SetBool("seen", true);
             if(Vector2.Distance(transform.position, playerPos.position) > distanciaFrenado)
@@ -81,9 +91,8 @@ public class EnemyShot : MonoBehaviour
                 }
             }
         }
-        else {anim.SetBool("seen", false);}
     }
-    
+
     void OnDrawGizmosSelected()
     {
         Gizmos.color = rayColor;

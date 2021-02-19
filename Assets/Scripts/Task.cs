@@ -10,10 +10,14 @@ public class Task : MonoBehaviour
     [SerializeField]
 
     int currentTask = 0;
-
+    
     public void AddPoints(int Points)
     {
         currentTask += Points;
         taskTxt.text = $"Whiskey: {currentTask}/10";
+        if(currentTask >= 10)
+        {
+            Win.show();
+        }
     }
 }

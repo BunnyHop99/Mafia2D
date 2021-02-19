@@ -26,7 +26,5 @@ public class bulle2left : MonoBehaviour
 
             Destroy(gameObject);
         }
-            
-        
     }
 }

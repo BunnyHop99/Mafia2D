@@ -26,8 +26,5 @@ public class BulletEnemyLeft : MonoBehaviour
 
            Destroy(gameObject);
         }
-            
-        
     }
-
 }

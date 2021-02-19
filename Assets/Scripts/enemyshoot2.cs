@@ -12,6 +12,9 @@ public class enemyshoot2 : MonoBehaviour
     public GameObject balaLeft;
     private float tiempo;
     GameObject bulletEnemy2;
+
+    [SerializeField, Range(0f, 1f)]
+    private float dontStop;
     
     [SerializeField]
     Color rayColor = Color.magenta;
@@ -35,6 +38,10 @@ public class enemyshoot2 : MonoBehaviour
     {
         if(Physics2D.Raycast(transform.position, Vector2.right, rayDistance, playerLayer) || Physics2D.Raycast(transform.position, Vector2.left, rayDistance, playerLayer))
         {
+            dontStop = 1;
+        }
+        if(dontStop >= 1)
+        {
             anim.SetBool("seen", true);
             
             if(playerPos.position.x>this.transform.position.x)
@@ -49,7 +56,7 @@ public class enemyshoot2 : MonoBehaviour
             }
 
             tiempo += Time.deltaTime;
-            if(tiempo >= .85)
+            if(tiempo >= 1.5)
             {
                 if(playerPos.position.x>this.transform.position.x)
                 {
@@ -63,7 +70,6 @@ public class enemyshoot2 : MonoBehaviour
                 }
             }
         }
-        else {anim.SetBool("seen", false);}
     }
     
     void OnDrawGizmosSelected()

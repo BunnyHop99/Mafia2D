@@ -155,6 +155,7 @@ public class Player : MonoBehaviour
         if(currentHealth <= 0)
         {
             Die();
+            Over.show();
         }
         else{
             anim.SetTrigger("damage");
