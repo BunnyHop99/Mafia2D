@@ -60,6 +60,7 @@ public class Weapon : MonoBehaviour
     {
         yield return new WaitForSeconds(.10f);
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.FireAudio);
     }
 
     void Fire2()

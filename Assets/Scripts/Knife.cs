@@ -37,6 +37,7 @@ public class Knife : MonoBehaviour
         {
             enemy.TakeDamage(damage);
             Instantiate(impactEffect, transform.position, transform.rotation);
+            SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.KnifeAudio);
         } 
 
         Villano2 enemy2 = hitInfo.GetComponent<Villano2>();

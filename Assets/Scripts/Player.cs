@@ -133,6 +133,7 @@ public class Player : MonoBehaviour
         if(other.CompareTag("whiskey"))
         {
             Whiskey whiskey = other.GetComponent<Whiskey>();
+            SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.WhiskeyAudio);
             GameManager.instance.Task.AddPoints(whiskey.Points);
             Destroy(other.gameObject);
         }
@@ -165,6 +166,7 @@ public class Player : MonoBehaviour
     void Die()
     {
         Instantiate(deathEffect, transform.position, Quaternion.identity);
+        SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.DeadPlayerAudio);
         Destroy(gameObject);
     }
     

@@ -21,6 +21,7 @@ public class Villano2 : MonoBehaviour
     void Die()
     {
         Instantiate(deathEffect2, transform.position, Quaternion.identity);
+        SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.DeadEnemyAudio);
         Destroy(gameObject);
     }
 }

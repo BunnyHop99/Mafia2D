@@ -18,6 +18,7 @@ public class Task : MonoBehaviour
         if(currentTask >= 10)
         {
             Win.show();
+            SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.WinAudio);
         }
     }
 }

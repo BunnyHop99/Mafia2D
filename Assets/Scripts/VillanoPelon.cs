@@ -21,6 +21,7 @@ public class VillanoPelon : MonoBehaviour
     void Die()
     {
         Instantiate(deathEffect, transform.position, Quaternion.identity);
+        SoundEffects.sfxInstance.Audio.PlayOneShot(SoundEffects.sfxInstance.DeadEnemyAudio);
         Destroy(gameObject);
     }
 }
